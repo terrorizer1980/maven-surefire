@@ -88,13 +88,13 @@
 
   <properties>
     <javaVersion>7</javaVersion>
-    <mavenVersion>3.0</mavenVersion>
+    <mavenVersion>3.5.0</mavenVersion>
     <!-- <shadedVersion>3.0.0-M2</shadedVersion> commented out due to https://issues.apache.org/jira/browse/MRELEASE-799 -->
     <commonsLang3Version>3.8.1</commonsLang3Version>
     <commonsCompress>1.20</commonsCompress>
     <commonsIoVersion>2.6</commonsIoVersion>
     <doxiaVersion>1.10</doxiaVersion>
-    <doxiaSitetoolsVersion>1.9.2</doxiaSitetoolsVersion>
+    <doxiaSitetoolsVersion>1.10</doxiaSitetoolsVersion>
     <plexus-java-version>1.0.6</plexus-java-version>
     <!-- maven-shared-utils:3.2.0+ another behavior - broke Surefire performance - end of subprocess notification not arrived in ForkStarter -->
     <mavenSharedUtilsVersion>3.1.0</mavenSharedUtilsVersion>
